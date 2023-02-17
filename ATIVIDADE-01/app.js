@@ -6,7 +6,7 @@ universidade
  * Versão: 1.0
  ******************************************************************/
 
-var calculos = require('./modulo/calculadora')
+var calculos = require('./modulo/media')
 var readline = require('readline')
 const { Console } = require('console')
 console.log('\n')
